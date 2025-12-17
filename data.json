@@ -1,0 +1,107 @@
+[
+  {
+    "product_name": "HILLCREST RICE CAKE BARS",
+    "weight_volume": "5PK/90G",
+    "price": "$1.99",
+    "price_per_unit": "$2.21 per 100g",
+    "description": "Chocolate or Strawberry"
+  },
+  {
+    "product_name": "EL TORA BLACK BEANS",
+    "weight_volume": "400G",
+    "price": "$1.29",
+    "price_per_unit": "",
+    "description": ""
+  },
+  {
+    "product_name": "VANILLA CUSTARD POUCH",
+    "weight_volume": "70G",
+    "price": "$0.99",
+    "price_per_unit": "$1.41 per 100g",
+    "description": ""
+  },
+  {
+    "product_name": "HEALTH & VITALITY LAMB HOT POT",
+    "weight_volume": "290G",
+    "price": "$2.79",
+    "price_per_unit": "$0.96 per 100g",
+    "description": ""
+  },
+  {
+    "product_name": "POWER FORCE BRIGHT & CLEAN BATHROOM CLEANING WIPES",
+    "weight_volume": "100PK",
+    "price": "$2.61",
+    "price_per_unit": "$3.49 per 100 wipes",
+    "description": ""
+  },
+  {
+    "product_name": "COLGATE TOTAL TOOTHPASTE",
+    "weight_volume": "800G",
+    "price": "$5.28",
+    "price_per_unit": "",
+    "description": ""
+  },
+  {
+    "product_name": "JUST ORGANIC PASSATA",
+    "weight_volume": "700G",
+    "price": "$1.96",
+    "price_per_unit": "$0.28 per 100g",
+    "description": ""
+  },
+  {
+    "product_name": "ORGANIC KOMBUCHA",
+    "weight_volume": "330ML",
+    "price": "$2.50",
+    "price_per_unit": "$7.55 per litre",
+    "description": "Ginger & Lemon or Raspberry & Lemon"
+  },
+  {
+    "product_name": "BANANA BREAD",
+    "weight_volume": "",
+    "price": "$4.50",
+    "price_per_unit": "",
+    "description": ""
+  },
+  {
+    "product_name": "HILLCREST RICE CAKE BARS",
+    "weight_volume": "5PK/500G",
+    "price": "$4.50",
+    "price_per_unit": "$0.90 per 100g",
+    "description": "Chocolate or Strawberry"
+  },
+  {
+    "product_name": "Aussie Asparagus",
+    "weight_volume": "",
+    "price": "$2.49",
+    "price_per_unit": "",
+    "description": ""
+  },
+  {
+    "product_name": "Chicken Schnitzels",
+    "weight_volume": "",
+    "price": "$3.49",
+    "price_per_unit": "$78.73 per kg",
+    "description": ""
+  },
+  {
+    "product_name": "Fish Fillets",
+    "weight_volume": "(approx weight)",
+    "price": "$3.71",
+    "price_per_unit": "",
+    "description": ""
+  },
+  {
+    "product_name": "TimTam",
+    "weight_volume": "",
+    "price": "$3.99",
+    "price_per_unit": "",
+    "description": ""
+  },
+  {
+    "product_name": "Coca-Cola",
+    "weight_volume": "",
+    "price": "$2.49",
+    "price_per_unit": "",
+    "description": ""
+  }
+]

@@ -90,6 +90,26 @@ The prompt contains sophisticated logic for handling real-world OCR challenges:
 
 
 
+## Security & Repository Management
+
+### API Key Protection
+To prevent accidental exposure of sensitive credentials, the following security measures were implemented:
+
+1. **`.env` in `.gitignore`**: The `.env` file containing the OpenAI API key is explicitly excluded from version control via `.gitignore`.
+
+2. **`.env.example` Template**: A safe template file (`.env.example`) is provided with placeholder values, allowing collaborators to understand required environment variables without exposing secrets.
+
+3. **Git Pre-commit Validation**: The repository structure ensures no API keys can be accidentally committed, preventing:
+   - GitHub secret scanning alerts
+   - Unauthorized API usage
+   - Security breaches
+### Reason for Security & Repository Management
+- **Compliance**: Follows GitHub's [Security Best Practices](https://docs.github.com/en/code-security/secret-scanning) and prevents secret scanning alerts
+- **Professionalism**: Demonstrates understanding of production security standards
+- **Collaboration**: Enables safe sharing and code review without credential exposure
+- **Audit Trail**: Clean commit history without security remediation commits
+
+
 ## Results & Performance
 
 ### Extraction Results
