@@ -1,0 +1,21 @@
+# Core & Runtime
+fastapi
+uvicorn
+streamlit
+python-multipart
+
+# Image Processing
+opencv-python
+pillow
+
+# OCR Options
+paddleocr
+pytesseract
+
+# LLM
+openai
+requests
+
+# Utilities
+pandas
+python-dotenv
